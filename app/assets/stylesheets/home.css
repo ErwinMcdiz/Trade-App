@@ -1,0 +1,18 @@
+ /* Logout Button Styling */
+ .login {
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .login:hover {
+    color: yellow;
+  }
+
+  .landing-page {
+    margin: 100px; 
+  }
+
+  .org_name {
+    color: #0350b6;
+  }
